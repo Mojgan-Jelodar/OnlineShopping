@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>refreshTableviewTitle</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Refreshing...</string>
+	</dict>
+	<key>requiedFieldsError</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%@ is empty...</string>
+	</dict>
+	<key>invalidEmailError</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Email is invalid...</string>
+	</dict>
+	<key>unknownServerError</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>خطای ناشناخته‌ی سرور</string>
+	</dict>
+	<key>invalidAuthenticationError</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Invalid authentication</string>
+	</dict>
+	<key>loginButtonTitle</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Login</string>
+	</dict>
+	<key>errorTitle</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Error</string>
+	</dict>
+	<key>ok</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Ok</string>
+	</dict>
+</dict>
+</plist>

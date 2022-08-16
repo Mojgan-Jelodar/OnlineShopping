@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringKey</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string></string>
+		<key>Variable</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>other</key>
+			<string></string>
+		</dict>
+	</dict>
+	<key>pullToRefreshTitle</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Refreshing...</string>
+	</dict>
+	<key>titlePage</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Products</string>
+	</dict>
+	<key>invalidAuthenticationError</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Invalid authentication</string>
+	</dict>
+	<key>loginButtonTitle</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>Login</string>
+	</dict>
+</dict>
+</plist>
