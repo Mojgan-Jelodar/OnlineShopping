@@ -47,7 +47,7 @@ Clean Swift (a.k.a VIP) is Uncle Bob’s Clean Architecture applied to iOS and M
 
 ## Login View
 - Shows a screen with Email and Password inputs
--  
+
 ## List View
 - Shows a list of product with product's photo and item description.
 - If Network is available it fetches products from API only,and if there is a problem on network or connection it shows products fetched from local repository  
