@@ -1,11 +1,5 @@
-# Market
+# Online shopping
 After launching app,User should be logged in by username and password then the app shows user a list of products and user can get more detail about each item by selecting item. 
-
-
-# Demo Account
-**User:**
- - Email: user@choco.com 
- - Password: chocorian
 
 
 # Requirement
@@ -98,6 +92,9 @@ Clean Swift (a.k.a VIP) is Uncle Bob’s Clean Architecture applied to iOS and M
   </td>
   <td>
    <img width = "205" height = "448" src="https://user-images.githubusercontent.com/5070406/186636657-9e71fd4a-d12f-4ea3-b667-c299a7bfe2af.jpg" alt="" />
+  </td>
+   <td>
+   <img width = "205" height = "448" src="https://user-images.githubusercontent.com/5070406/186637375-98b05b9f-c132-466e-8955-355028ce64cc.png" alt="" />
   </td>
  </tr>
 </table>
