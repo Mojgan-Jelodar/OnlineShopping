@@ -8,8 +8,8 @@ After launching app,User should be logged in by username and password then the a
 
 # Installation
 - To run the project :
-- clone from *[https://github.com/choco-hire/Mozhgan-iOS.git](https://github.com/Mojgan-Jelodar/OnlineShopping.git)*
-- Open `Choco.xcodeproj`
+- clone from *[Online Shopping](https://github.com/Mojgan-Jelodar/OnlineShopping.git)*
+- Open `OnlineShopping.xcodeproj`
 - Let SPM dependencies downloading has been finished
 - Press Run Button
 
